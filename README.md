@@ -298,7 +298,7 @@ ToC
 
 * [OGC SensorThings API ★ 21 ⧗ 15](https://github.com/opengeospatial/sensorthings) - The OGC SensorThings API is an OGC standard specification for providing an open and unified way to interconnect IoT devices, data, and applications over the Web
 * [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
-
+* Blynk(IOt and android app) This app is very useful in creating and connecting hardware like nodemcu or esp8266 etc to android.
 ## Middleware
 
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
